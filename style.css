@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-bar{background-color: #000000;
+margin: 0;
+Height:50px;}
+
+
+.nav-bar .nav-text p{
+    color: #FFFFFF;
+    font-family: 'Inter';
+    padding:15px;
+}
+.btn{
+    background-color: black;
+    height: 32px;
+    width: 125px;
+    margin: 20px;
+
+}
+.btn a{
+    color: #FFFFFF;
+}
+.img img{ height: 432px;
+    width: 225px;
+
+}
+.body{
+    margin: 40px;
+}
